@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-kasir/static/css/main.6ccd65a8.css",
+    "main.js": "/task-kasir/static/js/main.8cb09c11.js",
+    "static/js/787.545aecf5.chunk.js": "/task-kasir/static/js/787.545aecf5.chunk.js",
+    "index.html": "/task-kasir/index.html",
+    "main.6ccd65a8.css.map": "/task-kasir/static/css/main.6ccd65a8.css.map",
+    "main.8cb09c11.js.map": "/task-kasir/static/js/main.8cb09c11.js.map",
+    "787.545aecf5.chunk.js.map": "/task-kasir/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.8cb09c11.js"
+  ]
+}
